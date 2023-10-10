@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/шестерня.png</file>
+    <file>icons/back3.png</file>
+    <file>icons/backspace2.svg</file>
+    <file>icons/backspace.svg</file>
+    <file>icons/calculate.svg</file>
+  </qresource>
+</RCC>
